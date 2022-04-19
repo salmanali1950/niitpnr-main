@@ -13,7 +13,7 @@
 	<artifactId>pnr-details-admin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pnr-details-admin</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>PNR details functionality</description>
 	<properties>
 		<java.version>1.8</java.version>
